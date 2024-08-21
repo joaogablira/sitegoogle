@@ -1,1 +1,1 @@
-# https://github.io/joaogablira/sitegoogle/
+# http:joaogablira.github.io/sitegoogle
